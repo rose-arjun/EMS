@@ -27,5 +27,10 @@ This is a Java-based Employee Management System developed using Spring Boot. It 
 3. Configure database (MySQL)
 4. Run the application
 
-## 📸 Output
-(Add screenshots here if available)
+
+
+
+
+
+
+
